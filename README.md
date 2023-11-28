@@ -32,7 +32,7 @@ Clone this repository to your local machine. Ensure that you have installed the 
 
 `pip install qiskit`
 
-To run the experiments, follow the instructions in the respective files. Detailed usage and parameters can be found in the individual README files within each experiment folder.
+To run the experiments, follow the instructions in the respective files.
 
 ## License
 
